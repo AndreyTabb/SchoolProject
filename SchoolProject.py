@@ -56,7 +56,6 @@ while h1 > h1_:
     height_value.append(h1)
     plotnost_value.append(p)
 
-print('Конечная скорость(м/с): ', speed_value[-1])
 
 speed_value1 = []
 height_value1 = []
@@ -85,3 +84,4 @@ while h1_ >= h2_:
     plotnost_value.append(p_)
 
 print('Время, проведённое в полете(с): ', t + t_)
+print('Конечная скорость(м/с): ', speed_value1[-1])
